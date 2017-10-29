@@ -1,0 +1,5 @@
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\InterfacesAlmacen\bin\Debug\InterfacesAlmacen.dll
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\InterfacesAlmacen\bin\Debug\InterfacesAlmacen.pdb
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\InterfacesAlmacen\obj\Debug\InterfacesAlmacen.csprojResolveAssemblyReference.cache
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\InterfacesAlmacen\obj\Debug\InterfacesAlmacen.dll
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\InterfacesAlmacen\obj\Debug\InterfacesAlmacen.pdb

@@ -1,0 +1,28 @@
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\GestionDeVentas\bin\Debug\GestionDeVentas.dll.config
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\GestionDeVentas\bin\Debug\GestionDeVentas.dll
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\GestionDeVentas\bin\Debug\GestionDeVentas.pdb
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\GestionDeVentas\bin\Debug\Almacen.dll
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\GestionDeVentas\bin\Debug\EntityFramework.dll
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\GestionDeVentas\bin\Debug\EntityFramework.SqlServer.dll
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\GestionDeVentas\bin\Debug\InterfacesAlmacen.dll
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\GestionDeVentas\bin\Debug\Almacen.pdb
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\GestionDeVentas\bin\Debug\InterfacesAlmacen.pdb
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\GestionDeVentas\bin\Debug\EntityFramework.xml
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\GestionDeVentas\bin\Debug\EntityFramework.SqlServer.xml
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\GestionDeVentas\obj\Debug\GestionDeVentas.csprojResolveAssemblyReference.cache
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\GestionDeVentas\obj\Debug\GestionDeVentas.dll
+E:\Cibertec\Visual Studio 2015 Developer\Tareas\Proyecto-master\GestionDeVentas\obj\Debug\GestionDeVentas.pdb
+C:\Users\PERSONAL\Desktop\Cibertec\Visual Studio Developer\Proyecto-V.2-master\GestionDeVentas\bin\Debug\GestionDeVentas.dll.config
+C:\Users\PERSONAL\Desktop\Cibertec\Visual Studio Developer\Proyecto-V.2-master\GestionDeVentas\bin\Debug\GestionDeVentas.dll
+C:\Users\PERSONAL\Desktop\Cibertec\Visual Studio Developer\Proyecto-V.2-master\GestionDeVentas\bin\Debug\GestionDeVentas.pdb
+C:\Users\PERSONAL\Desktop\Cibertec\Visual Studio Developer\Proyecto-V.2-master\GestionDeVentas\bin\Debug\Almacen.dll
+C:\Users\PERSONAL\Desktop\Cibertec\Visual Studio Developer\Proyecto-V.2-master\GestionDeVentas\bin\Debug\EntityFramework.dll
+C:\Users\PERSONAL\Desktop\Cibertec\Visual Studio Developer\Proyecto-V.2-master\GestionDeVentas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PERSONAL\Desktop\Cibertec\Visual Studio Developer\Proyecto-V.2-master\GestionDeVentas\bin\Debug\InterfacesAlmacen.dll
+C:\Users\PERSONAL\Desktop\Cibertec\Visual Studio Developer\Proyecto-V.2-master\GestionDeVentas\bin\Debug\Almacen.pdb
+C:\Users\PERSONAL\Desktop\Cibertec\Visual Studio Developer\Proyecto-V.2-master\GestionDeVentas\bin\Debug\InterfacesAlmacen.pdb
+C:\Users\PERSONAL\Desktop\Cibertec\Visual Studio Developer\Proyecto-V.2-master\GestionDeVentas\bin\Debug\EntityFramework.xml
+C:\Users\PERSONAL\Desktop\Cibertec\Visual Studio Developer\Proyecto-V.2-master\GestionDeVentas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PERSONAL\Desktop\Cibertec\Visual Studio Developer\Proyecto-V.2-master\GestionDeVentas\obj\Debug\GestionDeVentas.csprojResolveAssemblyReference.cache
+C:\Users\PERSONAL\Desktop\Cibertec\Visual Studio Developer\Proyecto-V.2-master\GestionDeVentas\obj\Debug\GestionDeVentas.dll
+C:\Users\PERSONAL\Desktop\Cibertec\Visual Studio Developer\Proyecto-V.2-master\GestionDeVentas\obj\Debug\GestionDeVentas.pdb
